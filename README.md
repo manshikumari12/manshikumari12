@@ -1,6 +1,14 @@
 <h1 align="center">Hi 👋, I'm Manshi Kumari</h1>
 <h3 align="center">A passionate Full-Stack developer from India</h3>
 
+- 👨‍💻 All of my projects are available at [manshikumari12.github.io](manshikumari12.github.io)
+
+- 💬 Ask me about **HTML,CSS,JavaScript,MongoDB,NodeJS,Express**
+
+- 📫 How to reach me **manshisbp@gmail.com**
+
+- ⚡ Fun fact **friendly**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/manshi-kumari-021345220" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="manshi-kumari-021345220" height="30" width="40" /></a>
