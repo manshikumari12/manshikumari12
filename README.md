@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Manshi Kumari</h1>
 <h3 align="center">A passionate Full-Stack developer from India</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=manshikumari12&label=Profile%20views&color=0e75b6&style=flat" alt="manshikumari12" /> </p>
+
+- 🔭 I’m currently Studying **Full-stack Web Development**
+
 - 👨‍💻 All of my projects are available at [manshikumari12.github.io](manshikumari12.github.io)
 
 - 💬 Ask me about **HTML,CSS,JavaScript,MongoDB,NodeJS,Express**
