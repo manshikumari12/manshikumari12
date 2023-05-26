@@ -10,7 +10,8 @@ Hi 👋, I'm  Manshi Kumari<br>A self-motivated, hard-working and ambitious Web 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=plastic&logo=node.js&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=plastic&logo=mongodb&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=plastic&logo=Canva&logoColor=white)
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=manshikumari12&theme=merko&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=manshikumari12&theme=merko&hide_border=false)<br/>
+![]([https://github-readme-streak-stats.herokuapp.com/?user=manshikumari12&theme=merko&hide_border=false](https://github-readme-streak-stats.herokuapp.com?user=manshikumari12&theme=react&hide_border=true&border_radius=6.5&date_format=M%20j%5B%2C%20Y%5D))<br/>
+<!-- https://github-readme-streak-stats.herokuapp.com/?user=manshikumari12&theme=merko&hide_border=false -->
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=manshikumari12&theme=merko&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
