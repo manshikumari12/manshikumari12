@@ -6,7 +6,7 @@ A self-motivated, hard-working and ambitious Web Developer with proficiency in J
 <img align="center" alt="Coding" width="100%" style="text-align:center" src="https://globaleducation.s3.ap-south-1.amazonaws.com/globaledu/gif/front-end-development.gif"> 
 🔭 I’m currently Studying Full-stack Web Development<br><br>🌱 I’m currently learning MongoDB, NodeJS, Express<br><br>👯 I’m looking to collaborate on Pepperfry.com<br><br>💬 Ask me about HTML , CSS , JavaScript , MongoDB , NodeJS , Express<br><br>📫 How to reach me manshisbp@gmail.com<br><br>📄 Know about my experiences https://drive.google.com/drive/folders/14XgjnnzE0RAewXCS9aboV7k4WkeHSSXt?usp=share_link<br><br>⚡ Fun fact Software developers spend more time learning as compared to others.
 
-
+[![](https://visitcount.itsvg.in/api?id=manshikumari12&icon=1&color=2)](https://visitcount.itsvg.in)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/manshi-kumari-021345220) 
@@ -35,6 +35,6 @@ A self-motivated, hard-working and ambitious Web Developer with proficiency in J
 ![](https://github-contributor-stats.vercel.app/api?username=manshikumari12&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=manshikumari12&icon=1&color=2)](https://visitcount.itsvg.in)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
