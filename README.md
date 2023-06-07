@@ -4,6 +4,7 @@
 
 A self-motivated, hard-working and ambitious Web Developer with proficiency in JavaScript, Node.js, Express.js, MongoDB, Mongoose, HTML and CSS. Problem-solving mindset and the ability to perform well in collaboration<br><br><br><br>
 <img align="center" alt="Coding" width="100%" style="text-align:center" src="https://globaleducation.s3.ap-south-1.amazonaws.com/globaledu/gif/front-end-development.gif"> <br>
+<hr>
 
 🔭 I’m currently Studying Full-stack Web Development<br><br>🌱 I’m currently learning MongoDB, NodeJS, Express<br><br>👯 I’m looking to collaborate on Pepperfry.com<br><br>💬 Ask me about HTML , CSS , JavaScript , MongoDB , NodeJS , Express<br><br>📫 How to reach me manshisbp@gmail.com<br><br>📄 Know about my experiences https://drive.google.com/drive/folders/14XgjnnzE0RAewXCS9aboV7k4WkeHSSXt?usp=share_link<br><br>⚡ Fun fact Software developers spend more time learning as compared to others.
 
