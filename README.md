@@ -1,7 +1,7 @@
 <h2 align="center">
   Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> , I'm <a href="[https://www.linkedin.com/in/manshi-kumari-021345220](https://linkedin.com/in/manshi-kumari-021345220)"> Manshi Kumari 💻</a>!
 </h2>  
-A passionate backend developer
+<h3>A passionate backend developer</h3>
 A self-motivated, hard-working and ambitious Web Developer with proficiency in JavaScript, Node.js, Express.js, MongoDB, Mongoose, HTML and CSS. Problem-solving mindset and the ability to perform well in collaboration<br><br><br><br>
 <img align="center" alt="Coding" width="100%" style="text-align:center" src="https://globaleducation.s3.ap-south-1.amazonaws.com/globaledu/gif/front-end-development.gif"> <br>
 
