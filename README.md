@@ -11,7 +11,7 @@ A self-motivated, hard-working and ambitious Web Developer with proficiency in J
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <hr>
 
-🔭 I’m currently Studying Full-stack Web Development<br><br>🌱 I’m currently learning MongoDB, NodeJS, Express<br><br>👯 I’m looking to collaborate on Pepperfry.com<br><br>💬 Ask me about HTML , CSS , JavaScript , MongoDB , NodeJS , Express<br><br>📫 How to reach me manshisbp@gmail.com<br><br>📄 Know about my experiences (https://drive.google.com/file/d/14m5paKE2szBR4Wzvpo8StUpuzMajhtxd/view?usp=sharing)<br><br>⚡ Fun fact Software developers spend more time learning as compared to others.
+🔭 I’m currently Studying Full-stack Web Development<br><br>🌱 I’m currently learning python, django <br>><br>💬 Ask me about HTML , CSS , JavaScript , MongoDB , NodeJS , Express<br><br>📫 How to reach me manshisbp@gmail.com<br><br>📄 Know about my experiences (https://drive.google.com/file/d/14m5paKE2szBR4Wzvpo8StUpuzMajhtxd/view?usp=sharing)<br><br>⚡ Fun fact Software developers spend more time learning as compared to others.
 
 
 
